@@ -1,6 +1,6 @@
 # vue-teleport
 
-This template should help get you started developing with Vue 3 in Vite.
+[Article on teleporting components in Vue.js., akin to React portals](https://medium.com/javascript-in-plain-english/vue-tip-teleporting-components-c91d50429e60)
 
 ## Recommended IDE Setup
 
